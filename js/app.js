@@ -83,7 +83,21 @@ const tracks = [
     { title: "Kyon", file: "assets/image/audio/Kyon.mp3" },
     { title: "Pehli Baar", file: "assets/image/audio/Pehli Baar.mp3" },
     { title: "Tu Chahiye", file: "assets/image/audio/Tu Chahiye.mp3" },
-    { title: "Zaroor", file: "assets/image/audio/Zaroor.mp3" }
+    { title: "Zaroor", file: "assets/image/audio/Zaroor.mp3" },
+    { title: "Alfaaz", file: "assets/image/audio/alfaaz.mp3" },
+    { title: "Ashke", file: "assets/image/audio/ashke.mp3" },
+    { title: "Be Intehaan", file: "assets/image/audio/BeIntehaan.mp3" },
+    { title: "Boyfriend", file: "assets/image/audio/Boyfriend.mp3" },
+    { title: "Hum Mar Jayenge", file: "assets/image/audio/Hum Mar Jayenge.mp3" },
+    { title: "Inaam", file: "assets/image/audio/Inaam.mp3" },
+    { title: "Ishq Wala", file: "assets/image/audio/Ishq Wala.mp3" },
+    { title: "Kinna Sona", file: "assets/image/audio/Kinna Sona.mp3" },
+    { title: "Low Fade", file: "assets/image/audio/Low Fade.mp3" },
+    { title: "Main Tere Te Mar Gayi Sajna", file: "assets/image/audio/main tere te mar gayi sajna.mp3" },
+    { title: "Nadaniyan", file: "assets/image/audio/Nadaaniyan.mp3" },
+    { title: "O Saathi", file: "assets/image/audio/O Saathi.mp3" },
+    { title: "Rishte Naate", file: "assets/image/audio/Rishte Naate.mp3" },
+    { title: "Sufiana Sham", file: "assets/image/audio/Sufiana Sham.mp3" }
 ];
 let currentTrackIndex = 0;
 let previousVolume = 0.75;
